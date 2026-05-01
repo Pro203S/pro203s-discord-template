@@ -1,5 +1,4 @@
 import type { Command, CommandCallbackArgs } from "@pro203s/discord";
-import { ButtonBuilder, ButtonStyle } from "discord.js";
 
 export const command: Command = {
     "description": "핑",
