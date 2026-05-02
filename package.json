@@ -10,6 +10,6 @@
     "start": "discord start"
   },
   "dependencies": {
-    "@pro203s/discord": "../pro203s-discord"
+    "@pro203s/discord": "^1.0.0"
   }
 }
