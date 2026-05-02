@@ -38,3 +38,5 @@ discord-env.ts
 
 bun.lock
 package-lock.json
+
+installLocalDependencies.bat
